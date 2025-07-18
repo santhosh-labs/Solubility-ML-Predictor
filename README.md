@@ -36,3 +36,4 @@ The dataset includes 1,144 molecules with the following features:
 
 Clone the repository and open the notebook:
 ```bash
+git clone https://github.com/santhosh-labs/Solubility-ML-Predictor.git
